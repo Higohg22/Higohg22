@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Higo de Lima and I'm a technology enthusiast and aspiring full-stack developer, from Rio de Janeiro, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Higo de Lima and I'm a technology enthusiast and aspiring front-End developer, from Rio de Janeiro, Brazil.</h2>
 
 ###
 
